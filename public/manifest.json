@@ -1,9 +1,0 @@
-{
-  "short_name": "NPS BCP",
-  "name": "NPS Manager BCP",
-  "icons": [],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#003DA5",
-  "background_color": "#F0F4FA"
-}
